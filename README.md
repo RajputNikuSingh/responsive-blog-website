@@ -22,6 +22,19 @@ It demonstrates my ability to:
 
 ## 🖼️ Website Screenshots
 
+
+<p align="left" style="overflow-x:auto; white-space:nowrap;">
+
+<img src="Screenshot_2026-04-25-18-30-16-33.jpg" height="400"/>
+<img src="Screenshot_2026-04-25-18-30-27-15_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" height="400"/>
+<img src="Screenshot_2026-04-25-18-32-16-97.jpg" height="400"/>
+<img src="Screenshot_2026-04-25-18-32-23-40_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" height="400"/>
+<img src="Screenshot_2026-04-25-18-33-39-71_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" height="400"/>
+<img src="Screenshot_2026-04-25-18-34-22-03.jpg" height="400"/>
+<img src="Screenshot_2026-04-25-18-31-18-54.jpg" height="400"/>
+
+</p>
+
 ### 🏠 Homepage — Full View
 
 
